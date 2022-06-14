@@ -1,7 +1,7 @@
 # coursera-test
 Coursera test public
 <p>This repository is for Coursera course: HTML, CSS, and Javascript for Web Developers</p>
-<p>You could still look the code lines in the branch gh-pages</p>
+<p>You could still look the code lines into the branch gh-pages</p>
 <section><b>Module 2</b></section>
 <li><a href=https://josemerced.github.io/coursera-test/container-assignment/module2_solution/index.html>See Module 2 Index</a>
  <section><b>Module 3</b></section>
